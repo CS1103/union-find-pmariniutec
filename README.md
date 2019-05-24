@@ -10,8 +10,9 @@ Diseñar y desarrollar la estructura de datos Union Find:
 * Version con Rangos
 
 ## Prueba Inicial
-<img src="Example.png" alt="Percolation example" width="600"/>  
 *Fuente: Compsci 201 Percolation+Union-Find, Jeff Forbes, 2018*
+
+<img src="Example.png" alt="Percolation example" width="600"/>  
 
 ## Requisitos
 * Utilizar contenedores STL
