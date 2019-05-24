@@ -11,7 +11,7 @@ Diseñar y desarrollar la estructura de datos Union Find:
 
 ## Prueba Inicial
 <img src="Example.png" alt="Percolation example" width="600"/>
-*__Fuente:__ https://www2.cs.duke.edu/courses/spring18/compsci201/notes/0228/13-percolation-uf.pdf *
+*Fuente: Compsci 201 Percolation+Union-Find, Jeff Forbes, 2018*
 
 ## Requisitos
 * Utilizar contenedores STL
