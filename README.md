@@ -1,6 +1,6 @@
 # UnionFind
 
-Estructura de Datos para conjuntos disjuntos.
+Estructura de datos para conjuntos disjuntos.
 
 ## Objetivo
 
