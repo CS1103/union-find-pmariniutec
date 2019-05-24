@@ -4,14 +4,14 @@ Estructura de Datos para conjuntos disjuntos.
 
 ## Objetivo
 
-Diseñar y Desarrollar la estructura de datos Union Find:
+Diseñar y desarrollar la estructura de datos Union Find:
 * Version Normal
 * Version con Comprension
 * Version con Rangos
 
 ## Prueba Inicial
-![Image of Percolation](Example.png | width=100)
-
+<img src="Example.png" alt="Percolation example" width="600"/>
+_Fuente: https://www2.cs.duke.edu/courses/spring18/compsci201/notes/0228/13-percolation-uf.pdf_
 
 ## Requisitos
 * Utilizar contenedores STL
@@ -19,7 +19,6 @@ Diseñar y Desarrollar la estructura de datos Union Find:
 * Analizar que tan factible es desarrollar este algoritmo utilizando contenedores asociativos.
 * Incluir TDD o Pruebas unitarias utilizando asserts.  
 __NOTA:__ *No se aceptara una solucion sin un set minimo de pruebas que confirme su correcto funcionamiento.*
-
 
 ## Referencias
 * https://www.cs.princeton.edu/~rs/AlgsDS07/01UnionFind.pdf
