@@ -11,7 +11,7 @@ Diseñar y desarrollar la estructura de datos Union Find:
 
 ## Prueba Inicial
 <img src="Example.png" alt="Percolation example" width="600"/>
-_Fuente: https://www2.cs.duke.edu/courses/spring18/compsci201/notes/0228/13-percolation-uf.pdf_
+*__Fuente:__ https://www2.cs.duke.edu/courses/spring18/compsci201/notes/0228/13-percolation-uf.pdf *
 
 ## Requisitos
 * Utilizar contenedores STL
