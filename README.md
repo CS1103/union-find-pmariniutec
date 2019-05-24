@@ -8,7 +8,11 @@ Diseñar y Desarrollar la estructura de datos Union Find:
 * Version Normal
 * Version con Comprension
 * Version con Rangos
-  
+
+## Prueba Inicial
+![Image of Percolation](https://octodex.github.com/images/yaktocat.png)
+
+
 ## Requisitos
 * Utilizar contenedores STL
 * La estructura debe ser generica de modo que pueda utilizar cualquier tipo de contenedor secuencial.
