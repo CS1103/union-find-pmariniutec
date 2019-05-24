@@ -17,10 +17,12 @@ Diseñar y desarrollar la estructura de datos Union Find:
 ## Requisitos
 * Utilizar contenedores STL
 * La estructura debe ser generica de modo que pueda utilizar cualquier tipo de contenedor secuencial.
-* Verificar si es factible crear una funcion variadic que permita generar la union de más de 2 puntos a la vez. 
-* Analizar que tan factible es desarrollar este algoritmo utilizando contenedores asociativos.
 * Incluir TDD o Pruebas unitarias utilizando asserts.  
 __NOTA:__ *No se aceptara una solucion sin un set minimo de pruebas que confirme su correcto funcionamiento.*
+
+## Opcional
+* Verificar si es factible crear una funcion variadic que permita generar la union de más de 2 puntos a la vez. 
+* Analizar que tan factible es desarrollar este algoritmo utilizando contenedores asociativos.
 
 ## Referencias
 * https://www.cs.princeton.edu/~rs/AlgsDS07/01UnionFind.pdf
