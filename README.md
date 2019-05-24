@@ -13,8 +13,8 @@ Diseñar y Desarrollar la estructura de datos Union Find:
 * Utilizar contenedores STL
 * La estructura debe ser generica de modo que pueda utilizar cualquier tipo de contenedor secuencial.
 * Analizar que tan factible es desarrollar este algoritmo utilizando contenedores asociativos.
-* Incluir TDD o Pruebas unitarias utilizando asserts.
-*NOTA:* No se aceptara una solucion sin un set minimo de pruebas que confirme su correcto funcionamiento.
+* Incluir TDD o Pruebas unitarias utilizando asserts. 
+__NOTA: *No se aceptara una solucion sin un set minimo de pruebas que confirme su correcto funcionamiento.*__
 
 
 ## Referencias
