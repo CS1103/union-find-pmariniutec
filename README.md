@@ -10,7 +10,7 @@ Diseñar y Desarrollar la estructura de datos Union Find:
 * Version con Rangos
 
 ## Prueba Inicial
-![Image of Percolation](Example.png)
+![Image of Percolation](Example.png | width=100)
 
 
 ## Requisitos
